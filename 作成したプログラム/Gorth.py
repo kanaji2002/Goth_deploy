@@ -43,9 +43,6 @@ def resource_path(relative_path):
     return os.path.join(os.path.abspath("."), relative_path)
 
 
-
-        
-
 class MainWindow(QMainWindow):
     # tab_id_title_list = []
     # tab_id_title_list.append({'id': 0, 'title': 'Home'})
