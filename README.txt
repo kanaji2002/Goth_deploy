@@ -4,7 +4,7 @@ Gorth.exeと同じ階層に，「parts」フォルダがないと，アイコン
 作成したソースコードは，「作成したプログラム」フォルダの中にあります．
 Goth.pyが，GitHub上に上げている「Goth-toppage」フォルダからhtmlファイルと3Dモデルを読み込んで，表示させています．
 
-![room1](https://github.com/user-attachments/assets/56fe0283-08d8-47d6-bbcd-bb8da8f6ec69)
+[room1](https://github.com/user-attachments/assets/56fe0283-08d8-47d6-bbcd-bb8da8f6ec69)
 
 
 
