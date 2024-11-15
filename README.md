@@ -5,6 +5,9 @@ Gorth.exeと同じ階層に，「parts」フォルダがないと，アイコン
 Goth.pyが，GitHub上に上げている「Goth-toppage」フォルダからhtmlファイルと3Dモデルを読み込んで，表示させています．
 
 ![room1](https://github.com/user-attachments/assets/56fe0283-08d8-47d6-bbcd-bb8da8f6ec69)
+
 ![room2](https://github.com/user-attachments/assets/7d3d44a4-d345-4dcf-8945-e4b65d4e1588)
+
+
 
 
