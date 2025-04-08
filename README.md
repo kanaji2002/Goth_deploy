@@ -1,8 +1,8 @@
 
 ## Gothについて（About Goth）
-### [YouTube](https://youtu.be/qe5FUmFGjdk?si=9QvErB72NhIARp2P)
-### [Qitia](https://qiita.com/kanaji2002/items/fb4cb29a20de32c4f979)
-### [ProtoPedia](https://protopedia.net/prototype/5976)
+
+まずは、下記の[YouTube](https://youtu.be/qe5FUmFGjdk?si=9QvErB72NhIARp2P)をご覧ください。  
+[![YouTube Video](https://img.youtube.com/vi/qe5FUmFGjdk/0.jpg)](https://www.youtube.com/watch?v=qe5FUmFGjdk)
 
 
 ## 使用方法（How to use）
@@ -22,7 +22,8 @@ Goth.py reads html files and 3D models from the “Goth-toppage” folder on Git
 
 ## 特徴（Feature）
 仮想空間にリンクを配置したり，部屋を変えたり，音楽をかけたりすることのできるブラウザです．
-部屋は全部で6部屋あります．
+部屋は全部で6部屋あります．  
+さらに検索エンジンの切り替えや、類似したタブの一括削除が行えます。また、仮想空間の中で音楽を流したり、お気に入りの機能も用意しています。
 
 ---
 This browser allows you to place links in virtual space, change rooms, and play music.
@@ -38,6 +39,9 @@ There are six rooms in total.
 
 
 
+その他の情報
+### [Qitia](https://qiita.com/kanaji2002/items/fb4cb29a20de32c4f979)
+### [ProtoPedia](https://protopedia.net/prototype/5976)
 
 
 
