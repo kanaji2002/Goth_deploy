@@ -24,7 +24,13 @@ Goth.py reads html files and 3D models from the “Goth-toppage” folder on Git
 仮想空間にリンクを配置したり，部屋を変えたり，音楽をかけたりすることのできるブラウザです．
 部屋は全部で6部屋あります．  
 さらに検索エンジンの切り替えや，類似したタブの一括削除が行えます．また，仮想空間の中で音楽を流したり，お気に入りの機能も用意しています．  
-このブラウザは，
+このブラウザは，快適な空間をPC内にも構築したいという考えから生まれました．
+
+---
+This browser allows you to place links in virtual space, change rooms, and play music.
+There are six rooms in total.  
+In addition, you can switch search engines and delete similar tabs at once. It also plays music in the virtual space and has a favorites function.  
+This browser was born from the idea of building a comfortable space inside a PC.
 
 ---
 This browser allows you to place links in virtual space, change rooms, and play music.
