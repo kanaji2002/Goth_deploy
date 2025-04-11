@@ -32,9 +32,7 @@ There are six rooms in total.
 In addition, you can switch search engines and delete similar tabs at once. It also plays music in the virtual space and has a favorites function.  
 This browser was born from the idea of building a comfortable space inside a PC.
 
----
-This browser allows you to place links in virtual space, change rooms, and play music.
-There are six rooms in total.
+
 
 ![image](https://github.com/user-attachments/assets/5e076528-5fb9-406a-bfec-02c6a8b66583)
 
